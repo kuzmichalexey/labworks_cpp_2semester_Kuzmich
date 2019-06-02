@@ -1,8 +1,7 @@
 #include <ostream>
 #include <iostream>
-#include <IndividualWork1.h>
+#include "IndividualWork1.h"
 
-using namespace SortingExtension;
 using namespace std;
 
 void inputArray(int* array, int size)
